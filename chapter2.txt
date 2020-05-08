@@ -1,1 +1,1 @@
-this is chapter2 , i am learning git
+this is chapter2 , i am learning git. now we are learning branching
