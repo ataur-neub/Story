@@ -1,0 +1,11 @@
+<?php
+  $x=10;
+  
+  function Test(){
+    echo "<p>here x value will not be showed: $x</p>";//becasue a variable is declared in outside of function can be used in outside of function only 
+  }
+  Test();
+  
+  echo "<p>here x value will be shown:$x;</p>";//here value will be displayed the reason of that x was declared out of function
+
+?>
