@@ -1,0 +1,9 @@
+<?php
+function Test(){
+  $x=30;
+  echo "here x value is: $x";//the reason of displaying is declared in function.
+
+}
+echo "here x value is: $x";// we can not see the output rather will ses the error
+
+?>
