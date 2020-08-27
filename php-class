@@ -1,0 +1,11 @@
+//class is a blueprint which can contain method and variable and other propertie and you can say object is datatype whcih store data information.
+class Car{
+        function Car(){
+          $this->model="bmw";
+        }
+        
+        $carobj=new Car();
+        echo $carobj->model;
+        
+
+}
