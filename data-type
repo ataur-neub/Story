@@ -1,6 +1,11 @@
 <?php
   $x=33;
   
-  echo var_dump($x);
+  var_dump($x);
+  
+  $cars=array("bmw","toyota","local car");
+  var_dump($cars);
+  
+  
 
 ?>
