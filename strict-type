@@ -1,0 +1,12 @@
+<?php
+
+  declare(strict_types=1);
+  function add(int $a,int $b){
+      retun $a+$b;
+  }
+  
+  $sum=add(44,"hello, 5");
+  echo $sum;//here error will be displayed
+
+
+?>
