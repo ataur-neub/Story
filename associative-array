@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+  $arr=array("nuhas"=>"7","nafisa"=>"3","arafat"=>"6","rafi"=>"1");
+    echo "length is:".$arrlen=count($arr);
+    
+    echo "<br>";
+    echo $arr["nuhas"]." years old";
+
+?>
+
+</body>
+</html>
